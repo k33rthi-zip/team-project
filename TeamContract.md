@@ -1,13 +1,5 @@
 # Team Contract
 
-**Your team is free to revise this contract as your team wishes; we have scaffolded it with a recommended structure similar to the provided sample on Quercus.**
-
-After you reflect on past teamwork experiences and brainstorm a list of actions required for a positive teamwork experience, answer these questions. 
-
-Once you have all agreed on the contents of the team contract, make a PR to merge your team contract into the main branch of your team's repo on GitHub.
-
-**Please remember to remove any of the initial instruction text when your team finalizes your team contract; it should resemble the provided sample once complete, but with details specific to the expectations and norms agreed to by your entire team.**
-
 ---
 ## Purpose of this Contract
 
@@ -43,15 +35,14 @@ This contract sets out shared expectations and commitments for how our team will
 ---
 ## Conflict resolution
 
-* By listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.
-* 
+* By listening to each other's side of the issue and attempting to reach a compromise. If a resolution has not yet been reached, then let another neutral group member help mediate the conflict.
+* If a resolution has not yet been reached, then consult a TA or instructor as a team.
 
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-
+# Complete their share of the work in a timely manner and follow the project schedule/dates and deadlines set collectively as a group. 
 ---
 
 ---
@@ -60,4 +51,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-(type names here)
+Keerthi
