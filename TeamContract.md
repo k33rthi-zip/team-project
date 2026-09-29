@@ -42,7 +42,7 @@ This contract sets out shared expectations and commitments for how our team will
 
 ## Accountability
 
-# Complete their share of the work in a timely manner and follow the project schedule/dates and deadlines set collectively as a group. 
+* Complete their share of the work in a timely manner and follow the project schedule/dates and deadlines set collectively as a group. 
 ---
 
 ---
